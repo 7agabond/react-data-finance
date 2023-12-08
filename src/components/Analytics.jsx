@@ -17,7 +17,7 @@ const Analytics = () => {
             dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit,
             eveniet ex deserunt fuga?
           </p>
-          <button className="bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3">
+          <button className="transition bg-black hover:bg-transparent hover:outline hover:outline-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 active:translate-y-[2px]">
             Get Started
           </button>
         </div>
